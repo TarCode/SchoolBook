@@ -1,0 +1,74 @@
+[
+	{
+		"name" : "A.Z. BERMAN",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "2721 376 7802",
+					 "address" : "C/O A.Z. Berman & Kerrem Ave, Beacon Valley",
+					 "email" : "admin@azberman.wcape.school.za"
+				 }
+},
+
+	{
+	
+		"name" : "ALPINE",
+		"id" : "/images/primarySchools/alpine.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "2721 376 1321",
+					 "address" : "C/O Alpine & Gliderweg, Beaconvalley",
+					 "email" : "alpineprimary@gmail.com"
+				 }
+	},
+
+	{
+	
+		"name" : "CASCADE",
+		"id" : "/images/primarySchools/cascade.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "2721 374 3451",
+					 "address" : "Cascade Street, Eastridge",
+					 "email" : "admin@cascadeps.wcape.school.za"
+				 }
+	},
+
+	{
+	
+		"name" : "HAZELDENE",
+		"id" : "/images/primarySchools/hazeldene.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "2721 392 1110",
+					 "address" : "Hazeldene Ave, Portlands",
+					 "email" : "admin@hazeldeneps.wcape.school.za"
+				 }
+	},
+
+	{
+	
+		"name" : "CARAVELLE",
+		"id" : "/images/primarySchools/caravelle.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "2721 392 6603",
+					 "address" : "Caravelleweg, Rocklands",
+					 "email" : "carave@mweb.co.za"
+				 }
+	},
+
+	{
+	
+		"name" : "Parkhurst",
+		"id" : "/images/primarySchools/parkhurst.jpg",
+		"info" : {   "type":"Public School",
+					 "grades": "1-7",
+					 "contact" : "+27 21 371 8910",
+					 "address" : "Silversands Avenue, Westridge, Mitchells Plain, 7798, Western Cape, South Africa",
+					 "email" : "admin@azberman.wcape.school.za"
+				 }
+	}
+	
+]
+

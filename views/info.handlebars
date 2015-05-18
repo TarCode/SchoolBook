@@ -1,0 +1,25 @@
+<div class = "container2">
+	{{#each info}}
+		<div class="row">
+			<div class="col-xs-12 col-sm-12">
+		        <h3>{{this.name}}</h3>
+		    </div>
+		    <div class="col-xs-12 col-sm-4">
+		        <img class = "img-responsive" src = "{{this.id}}">
+		       
+		    </div>
+		    <div class="col-xs-12 col-sm-5">
+		    	<p><b>Type: </b>{{this.info.type}}</p>
+		    	<p><b>Grades: </b>{{this.info.grades}}</p>
+		    	<p><b>Contact: </b>{{this.info.contact}}</p>
+		    	<p><b>Address: </b>{{this.info.address}}</p>
+		    </div>
+		    <div class="col-xs-12 col-sm-3">
+			    <a href = "/soon"><button class = "moreButton" >More</button></a>
+			</div>
+		</div>
+		
+
+		<hr/>
+	{{/each}}
+</div>		
