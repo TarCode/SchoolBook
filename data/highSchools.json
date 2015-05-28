@@ -1,14 +1,104 @@
 [
 	{
-		"name" : "#",
-		"id" : "#",
-		"info" : "#"},
-
+		"name" : "ROCKLANDS",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 392 7139",
+				 "address" : "4 Cedar Way, Rocklands",
+				 "email" : "admin@rss.wcape.school.za"
+			 }
+	},
 	{
 	
-		"name" : "#",
-		"id" : "#",
-		"info" : "#"
+		"name" : "CEDAR HIGH SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 392 5737",
+				 "address" : "Weltevreden Road, Rocklands",
+				 "email" : "admin@cs.wcape.school.za"
+			 }
+	},
+	
+	{
+		"name" : "MONDALE HIGH SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 392 7031",
+				 "address" : "Merrydale Road, Portlands",
+				 "email" : "admin@mondalehs.wcape.school.za"
+			 }
+	},
+
+	{
+		"name" : "PORTLAND HIGH SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 374 4141",
+				 "address" : "Morgenster Road, Portlands",
+				 "email" : "admin@portlands.wcape.school.za"
+			 }
+	},
+
+	{
+		"name" : "LENTEGEUR SECONDAY SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 371 4161",
+				 "address" : "Rooikrans Road, Lentegeur",
+				 "email" : "admin@lentegeurss.wcape.school.za"
+			 }
+	},
+
+	{
+		"name" : "BEACON HILL  SECONDAY SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 376 4331",
+				 "address" : "114 Metropolitan Road, Beacon Valley",
+				 "email" : "admin@bhss.wcape.school.za"
+			 }
+	},
+
+	{
+		"name" : "OVAL NORTH SECONDAY SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 376 1067",
+				 "address" : "Oval Street, Beacon Valley",
+				 "email" : "admin@ovalnorthss.wcape.school.za"
+			 }
+	},
+
+
+	{
+		"name" : "ALOE HIGH SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 371 0552",
+				 "address" : "Aloe Road, Lentegeur",
+				 "email" : "admin@aloe.wcape.school.za"
+			 }
+	},
+
+	{
+		"name" : "WESTRIDGE SECONDARY SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 392 5510",
+				 "address" : "Silversands Rd, Westridge",
+				 "email" : "admin@westridgess.wcape.school.za"
+			 }
+	},
+
+
+	{
+		"name" : "STRANDFONTEIN SECONDARY SCHOOL",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 393 2100",
+				 "address" : "2 Frigate Str, Strandfontein",
+				 "email" : "admin@strandfonteinss.wcape.school.za"
+			 }
 	}
 	
 ]
